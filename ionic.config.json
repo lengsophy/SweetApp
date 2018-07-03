@@ -1,0 +1,8 @@
+{
+  "name": "sweepapp",
+  "app_id": "5245772f",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
